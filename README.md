@@ -1,10 +1,8 @@
 # # whoami
 📖 Studying for Cloud & Security Engineer  
+🔭 Towards for being SRE  
 ☕ Addicted in Caffeine  
-🐱 Healing with watching animal video 
-
-## Motto
-아는 만큼 보인다  
+🐱 Healing with watching animal  
 
 ## Tech Stack
 ![Static Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,9 +18,13 @@
 
 
 
-## Certificate 
-- AWS Solutions Architect - Associate  
-[![aws-saa](./aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/2359d72b-111b-42b4-96f5-2645b605ad57/public_url)
+## Certificate  
+
+- AWS Certified Solutions Architect - Associate  
+  [![AWS Certified Solutions Architect - Associate](./aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/2359d72b-111b-42b4-96f5-2645b605ad57/public_url)
+- AWS Certified Secutiry - Specialty  
+  [![AWS Certified](./aws-certified-security-specialty.png)](https://www.credly.com/badges/5bf99268-3956-49e4-b82a-f06bdf510fcf/public_url)  
+
 
 ## Award
 - 2022 TS보안 허점을 찾아라! Excellence award (수목원)
